@@ -1,4 +1,5 @@
-*📝 Estudo de Caso: Elite Performance (Blog)
+#Estudo de Caso: Elite Performance
+📝 Estudo de Caso: Elite Performance (Blog)
 Visão Geral do Projeto
 Este projeto é a Landing Page de alta performance (Elite Performance) reestruturada para o formato de Artigo de Blog ou Estudo de Caso. O objetivo é apresentar a estratégia de conversão em um ambiente profissional e de fácil leitura.
 
